@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XKgWkO8fcrAi9JrhLceSQRmQ0B1dU/exWqpz8+h8hfq+6W9UGgaQTzFcUSaPTnPvH63UdjV3j3LS83gh4O/NTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jack\\Desktop\\Newexample\\SupportTicketApplication2\\Library.SupportTicket\\Library.SupportTicket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jack\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jack\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

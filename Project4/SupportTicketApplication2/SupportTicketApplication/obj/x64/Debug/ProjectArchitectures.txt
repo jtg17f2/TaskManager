@@ -1,0 +1,1 @@
+C:\Users\jack\Desktop\Newexample\SupportTicketApplication2\SupportTicketApplication\SupportTicketApplication.csproj;x64
