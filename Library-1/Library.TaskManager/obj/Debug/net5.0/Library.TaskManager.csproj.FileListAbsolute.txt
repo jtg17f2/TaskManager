@@ -1,0 +1,12 @@
+C:\Users\jack\source\repos\TaskManager\Library.TaskManager\bin\Debug\net5.0\Library.TaskManager.deps.json
+C:\Users\jack\source\repos\TaskManager\Library.TaskManager\bin\Debug\net5.0\Library.TaskManager.dll
+C:\Users\jack\source\repos\TaskManager\Library.TaskManager\bin\Debug\net5.0\ref\Library.TaskManager.dll
+C:\Users\jack\source\repos\TaskManager\Library.TaskManager\bin\Debug\net5.0\Library.TaskManager.pdb
+C:\Users\jack\source\repos\TaskManager\Library.TaskManager\obj\Debug\net5.0\Library.TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jack\source\repos\TaskManager\Library.TaskManager\obj\Debug\net5.0\Library.TaskManager.AssemblyInfoInputs.cache
+C:\Users\jack\source\repos\TaskManager\Library.TaskManager\obj\Debug\net5.0\Library.TaskManager.AssemblyInfo.cs
+C:\Users\jack\source\repos\TaskManager\Library.TaskManager\obj\Debug\net5.0\Library.TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\jack\source\repos\TaskManager\Library.TaskManager\obj\Debug\net5.0\Library.TaskManager.dll
+C:\Users\jack\source\repos\TaskManager\Library.TaskManager\obj\Debug\net5.0\ref\Library.TaskManager.dll
+C:\Users\jack\source\repos\TaskManager\Library.TaskManager\obj\Debug\net5.0\Library.TaskManager.pdb
+C:\Users\jack\source\repos\TaskManager\Library.TaskManager\obj\Debug\net5.0\Library.TaskManager.csprojAssemblyReference.cache
